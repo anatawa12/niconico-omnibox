@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "niconico omnibox",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "nico-omni",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "open niconico with content id like 'sm9' on omnibox",
+    "description": "The description of the application"
+  }
+}
