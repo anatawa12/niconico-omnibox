@@ -6,6 +6,7 @@ sm9のようなコンテントidからニコニコを開く
 
 omnibox(urlバー)に`nico<スペース>`と打ち、続けて動画などのidを打ってください
 
+TODO(now working): add gif
 
 ## Install
 
