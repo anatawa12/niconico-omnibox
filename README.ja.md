@@ -15,9 +15,12 @@ omnibox(urlバー)に`nico<スペース>`と打ち、続けて動画などのid�
 ## Development
 
 [webextension-toolbox] のドキュメントを参照してください
+webextension-toolboxのedgeターゲットはchromium edgeに対応していません ([webextension-toolbox#271]を参照).
+chromeターゲットをedge向けにビルドするときは使用してください。
 
 ## Docs
 
 * [webextension-toolbox]
 
 [webextension-toolbox]: https://github.com/HaNdTriX/webextension-toolbox
+[webextension-toolbox#271]: https://github.com/webextension-toolbox/webextension-toolbox/issues/271
