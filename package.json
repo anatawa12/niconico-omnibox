@@ -1,7 +1,7 @@
 {
   "name": "niconico-omnibox",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "open niconico with content id like &#39;sm9&#39; on omnibox",
   "scripts": {
     "dev": "webextension-toolbox dev",
