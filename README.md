@@ -2,6 +2,9 @@
 
 sm9のようなコンテントidからニコニコを開く
 
+- [English](README.en.md)
+- [日本語](README.md)
+
 ## How to use
 
 omnibox(urlバー)に`nico<スペース>`と打ち、続けて動画などのidを打ってください

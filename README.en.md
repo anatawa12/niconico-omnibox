@@ -2,6 +2,9 @@
 
 open niconico with content id like 'sm9' on omnibox
 
+- [English](README.en.md)
+- [日本語](README.md)
+
 ## How to use
 
 enter `nico ` and then enter id of video of Niconico Video to omnibox(url bar)
