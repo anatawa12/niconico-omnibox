@@ -13,7 +13,10 @@ omnibox(urlバー)に`nico<スペース>`と打ち、続けて動画などのid�
 
 ## Install
 
-アプリストアへの登録をお待ち下さい
+- [chrome](https://chrome.google.com/webstore/detail/nblkbnnlnleeehkaigljiodjjgdeicki/)
+- [firefox](https://addons.mozilla.org/ja/firefox/addon/niconico-omnibox/)
+- [opera](https://addons.opera.com/ja/extensions/details/niconico-omnibox/)
+- [edge](https://microsoftedge.microsoft.com/addons/detail/pepmljndnfaikadencapehmehmijbich/)
 
 ## Development
 

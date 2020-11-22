@@ -13,7 +13,10 @@ enter `nico ` and then enter id of video of Niconico Video to omnibox(url bar)
 
 ## Install
 
-Coming soon to addon stores for chrome, firefox, opera and edge.
+- [chrome](https://chrome.google.com/webstore/detail/nblkbnnlnleeehkaigljiodjjgdeicki/)
+- [firefox](https://addons.mozilla.org/ja/firefox/addon/niconico-omnibox/)
+- [opera](https://addons.opera.com/ja/extensions/details/niconico-omnibox/)
+- [edge](https://microsoftedge.microsoft.com/addons/detail/pepmljndnfaikadencapehmehmijbich/)
 
 ## Development
 
